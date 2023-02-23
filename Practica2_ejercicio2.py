@@ -13,9 +13,8 @@ def multiplicar(n1, n2):
 multiplicar(10,11)
 
 #COMPARAR LISTA
-def maximo(n1,n2,n3,n4,n5):
+def compara_lista(n1,n2,n3,n4,n5):
     a = [n1, n2, n3, n4, n5]
     print(max(a))
 
-(maximo(1,99,69,9,32))
-
+(compara_lista(1,99,69,9,32))
