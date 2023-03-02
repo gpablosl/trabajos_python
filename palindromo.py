@@ -1,7 +1,6 @@
 palabra = input("Ingresa tu palabra: ")
 palabra2 = palabra.casefold()  
-  
-# This string is reverse.  
+   
 rev = reversed(palabra2)  
   
 if list(palabra2) == list(rev):  
