@@ -1,3 +1,8 @@
+#Germán Pablos León
+#199137
+
+print("Alquiler de peliculas")
+
 def mostrar_categorias():
     print("Tipos de películas:")
     print("1. Acción")
